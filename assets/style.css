@@ -1,0 +1,13 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+textarea {
+   width: 100vw;
+   height: 100vh;
+
+   padding: 5px 10px;
+   outline: 0;
+}
